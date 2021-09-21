@@ -1,0 +1,34 @@
+{
+  "name": "cas_nantes_puppeteer",
+  "version": "0.0.1",
+  "description": "A simple script that get grades from CAS Nantes",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/99ba4ac7289a2fa6f19c83217afe503e.git"
+  },
+  "keywords": [
+    "cas",
+    "nantes",
+    "nodejs",
+    "puppeteer"
+  ],
+  "author": "Thomas Lebreton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/99ba4ac7289a2fa6f19c83217afe503e"
+  },
+  "homepage": "https://gist.github.com/99ba4ac7289a2fa6f19c83217afe503e",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
